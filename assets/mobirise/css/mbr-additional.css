@@ -1,0 +1,102 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
+
+#dropdown-menu-2btn-NaN .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-NaN .nav .link,
+#dropdown-menu-2btn-NaN .dropdown-item {
+  font-size: 1.6em;
+  color: #cccccc;
+  font-family: 'Roboto', sans-serif;
+}
+#dropdown-menu-2btn-NaN .navbar,
+#dropdown-menu-2btn-NaN .dropdown-menu {
+  background: #333333;
+}
+#dropdown-menu-2btn-NaN .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-NaN .dropdown-menu a:hover,
+#dropdown-menu-2btn-NaN .dropdown-menu a:focus {
+  background: #292929;
+}
+#dropdown-menu-2btn-NaN .navbar-toggler {
+  color: #cccccc;
+}
+#dropdown-menu-2btn-NaN A {
+  font-size: 15px;
+}
+#msg-box3-2 .mbr-header .mbr-header__text {
+  text-align: left;
+  color: #333333;
+  font-size: 60px;
+}
+#msg-box3-2 .mbr-header .mbr-header__subtext {
+  text-align: left;
+  color: #c1c1c1;
+  font-size: 60px;
+}
+#msg-box3-2 .mbr-article {
+  color: #333333;
+  font-size: 20px;
+}
+#msg-box3-2 .mbr-header .mbr-header__subtext SPAN {
+  font-size: 36px;
+}
+#msg-box3-2 .mbr-header .mbr-header__subtext B {
+  font-size: 36px;
+}
+#image1-8 SMALL {
+  text-align: right;
+}
+#msg-box5-17 .mbr-header__text {
+  color: #000000;
+  text-align: right;
+}
+#msg-box5-17 .mbr-header__subtext {
+  color: #000000;
+}
+#msg-box5-17 .mbr-article {
+  color: #000000;
+}
+#header3-c H3 {
+  text-align: left;
+}
+#header3-e H3 {
+  font-size: 25px;
+  text-align: center;
+}
+#header3-e P {
+  text-align: center;
+  color: #000000;
+}
+#header3-e SPAN {
+  font-size: 20px;
+}
+#slider-w H1 {
+  color: #000000;
+  text-align: center;
+}
+#msg-box5-14 .mbr-header__text {
+  color: #000000;
+}
+#msg-box5-14 .mbr-header__subtext {
+  color: #000000;
+  font-size: 20px;
+}
+#msg-box5-14 .mbr-article {
+  color: #000000;
+}
+#msg-box5-14 .mbr-article P {
+  font-size: 15px;
+}
+#testimonials1-13 .mbr-section__header {
+  text-align: center;
+}
+#testimonials1-13 .mbr-reviews__text P {
+  text-align: left;
+}
+#testimonials1-16 .mbr-section__header {
+  text-align: center;
+}
+#testimonials1-16 .mbr-reviews__text P {
+  text-align: left;
+}

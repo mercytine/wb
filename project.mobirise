@@ -1,0 +1,949 @@
+{
+  "settings": {
+    "path": "@PROJECT_PATH@",
+    "name": "My Site",
+    "screenshot": "screenshot.png",
+    "versionFirst": "5.3.0",
+    "siteFonts": [],
+    "theme": {
+      "additionalSetColors": [
+        "#333333",
+        "#677b68",
+        "#252525"
+      ]
+    },
+    "favicon": false,
+    "mbrsiteDomain": "jocxpiwvcq",
+    "imageResize": false,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false,
+    "currentPage": "index.html",
+    "uniqCompNum": 50,
+    "versionPublish": "5.3.0",
+    "publishChangesOnly": true
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "竹如此类",
+        "meta_descr": "竹如此类文创设计官网。",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/.3.jpg"
+      },
+      "components": [
+        {
+          "_inherit": "dropdown-menu",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "transparent": true,
+            "bgColor": "#333333",
+            "fontSize": "1.6",
+            "fontName": {
+              "name": "Roboto",
+              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "css": "'Roboto', sans-serif"
+            },
+            "fontColor": "#cccccc"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html#image1-19\">团队介绍</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\">FOR WINDOWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">FOR MAC</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1.6em",
+              "color": "#cccccc",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-family": "'Roboto', sans-serif"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#333333"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#292929"
+            },
+            ".navbar-toggler": {
+              "color": "#cccccc"
+            },
+            "A": {
+              "font-size": "15px"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/0.3-1.png",
+              "class": "",
+              "height": 128,
+              "alt": "",
+              "link": ""
+            }
+          },
+          "brand": "<a class=\"text-gray\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">竹如此类</a>",
+          "_name": "dropdown-menu-2btn",
+          "_anchor": "dropdown-menu-2btn-NaN"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "left",
+              "color": "#333333",
+              "font-size": "60px"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "left",
+              "color": "#c1c1c1",
+              "font-size": "60px"
+            },
+            ".mbr-article": {
+              "color": "#333333",
+              "font-size": "20px"
+            },
+            ".mbr-header .mbr-header__subtext SPAN": {
+              "font-size": "36px"
+            },
+            ".mbr-header .mbr-header__subtext B": {
+              "font-size": "36px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": true,
+            "showCaption": "noCaption",
+            "showText": false,
+            "showButton": false,
+            "paddingTop": "0",
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/121.119-1.png",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": false,
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "竹如此类。",
+          "meta": "<b>What's Bamboo.</b>",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"index.html#image1-8\" data-toolbar=\"-mbrBtnMove\">&nbsp;</a>  ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-2"
+        },
+        {
+          "_params": {
+            "showText": true,
+            "outside": true,
+            "bgColor": "#252525"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/2.53-3.png",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "你好，我是竹行侠，你问我背上背的是什么？那是我的梦想。<br><br>——我是要走出村庄勇往直前的竹子！",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-8",
+          "_styles": {
+            "SMALL": {
+              "text-align": "right"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#000000",
+              "text-align": "right"
+            },
+            ".mbr-header__subtext": {
+              "color": "#000000"
+            },
+            ".mbr-article": {
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": "31",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#c1c1c1",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "headerAlign": "right",
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/0.3.png",
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false,
+              "active": true
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "BRAND | 品牌形象",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>姓名：竹行侠</p><p>年龄：未知</p><p>出生地：新县大别山竹林中</p><p>性格：活泼勇敢</p><p>口头禅：背上背包，追逐自己的梦想！</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-17"
+        },
+        {
+          "_params": {
+            "showMeta": false
+          },
+          "title": "INTRODUCTION | 项目介绍",
+          "meta": "INTRODUCTION",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-c",
+          "_styles": {
+            "H3": {
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "text": "<p>河南省信阳市新县地处鄂豫皖三省交界处、大别山腹地，素有“红色首府、将军故里、诗画江南”之美誉。2019年9月，习近平总书记考察新县时指出：“要把革命老区建设得更好，让老区人民过上更好生活。”\n</p><p>习近平总书记在信阳市新县田铺乡田铺大湾考察时指出，依托丰富的红色文化资源和绿色生态资源发展乡村旅游，搞活了农村经济，是振兴乡村的好做法。竹编作为大别山的非物质文化遗产，具有历史悠久、工艺精良、经久耐用、绿色环保的特点。\n</p><p>同时，随着生活水平的提升，人们对于精神文化的需求日益增长。在设计、美学领域，富有创意的优秀原创设计产品和文创产品被大量需要。然而传统的竹编手工艺品如何推陈出新，在坚持传统工艺的基础上推出具有区域特色、结合红色文化、符合时代审美潮流的新型竹编IP方案以及产品，是我们所要思考与探索的。\n</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-g"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "PRODUCTS | 产品展示",
+          "meta": "<span style=\"font-style: normal;\">系列一：竹编宠物产品设计</span>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-e",
+          "_styles": {
+            "H3": {
+              "font-size": "25px",
+              "text-align": "center"
+            },
+            "P": {
+              "text-align": "center",
+              "color": "#000000"
+            },
+            "SPAN": {
+              "font-size": "20px"
+            }
+          }
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "autoplay": true,
+            "fullScreen": false,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "showBullets": true,
+            "bgColor": "#ffffff",
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/0.121-1.jpeg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": true,
+                "title": "猫爬架",
+                "contentAlign": "left",
+                "text": "猫咪不仅可以稳稳的躺在里面，还可以看到外面的风景。但夏季的时候天气炎热，对于宠物而言背包过热。散热性较好的竹编此时能够发挥作用，它本身具有较强的透气性，且大别山竹编本身质地柔软且韧性极佳，非常适合用来作为猫背包的材料。",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlay": false,
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/0.126-1.jpeg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": true,
+                "title": "逗猫棒",
+                "contentAlign": "center",
+                "text": "",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/121.119-4.png",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": true,
+                "title": "猫背包",
+                "contentAlign": "right",
+                "text": "猫咪不仅可以稳稳的躺在里面，还可以看到外面的风景。但夏季的时候天气炎热，对于宠物而言背包过热。散热性较好的竹编此时能够发挥作用，它本身具有较强的透气性，且大别山竹编本身质地柔软且韧性极佳，非常适合用来作为猫背包的材料。",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlay": false,
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/0.129-1.jpeg",
+                "active": true,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": true,
+                "title": "猫抓板",
+                "contentAlign": "center",
+                "text": "",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "alt": ""
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_anchor": "slider-w",
+          "_styles": {
+            "H1": {
+              "color": "#000000",
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showText": true,
+            "outside": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/0.121.jpeg",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "大别山竹编猫爬架设计",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-5"
+        },
+        {
+          "text": "<p>猫天性喜欢攀爬和瞭望，如果没有猫爬架猫一样会爬向高处，如衣柜、冰箱等满足攀高欲望，也会抓沙发满足磨爪需求，会干各种各样人不愿意看到的事。由此猫爬架就成为了宠物家具必备单品。竹编由于其材料固有特性具有韧性强、强度高、成本低的特点，非常适合用来做宠物用品。\n</p><p>我们为它增添了许多亮点：\n</p><p>1.\t模仿竹节造型设计，让猫咪在攀爬的过程中有合适的支撑点。\n</p><p>2.\t猫爬架的柱子上由草绳缠绕，可以用来给猫磨爪子。\n</p><p>3.\t太空舱采用了视窗化设计，外形既让猫咪有住进去的欲望，又能让主人能随时查看猫咪的状况。\n</p><p>4.\t竹编的太空舱具有良好的透气性，增加了猫咪在太空舱居住的舒适度。\n</p><p>5.\t竹编制品的所具有的天然圆角具有安全性高的特点，不容易给人和猫咪带来安全隐患。\n</p><p>6.\t为猫薄荷准备了专门的安置场所，有效提高猫爬架的集约化程度。\n</p><p>\n</p><p><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-4"
+        },
+        {
+          "_params": {
+            "showText": true,
+            "outside": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/0.126.jpeg",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "大别山竹编逗猫棒设计",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-r"
+        },
+        {
+          "text": "<p>如今逗猫棒主要分为提线类和羽毛类两种。竹编作为一种轻便且韧性极佳的材料，完全可以胜任逗猫棒这一职责。产品由竹编缠绕的杆子和竹编小球组成。竹编小球内有圆形珠子，当逗猫棒被甩动的时候竹编小球内的珠子会产生鸟叫声，吸引猫咪的捕食兴趣。竹编支撑的杆子由于韧性在甩动逗猫棒的过程中会和钓鱼竿一样产生弹性形变，竹编质地柔软手在甩动逗猫棒的时候也不会感到吃力或者不适。</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-t"
+        },
+        {
+          "_params": {
+            "showText": true,
+            "outside": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/121.128.png",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "大别山竹编猫背包设计",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-6"
+        },
+        {
+          "text": "<p>猫背包——猫咪不仅可以稳稳的躺在里面，还可以看到外面的风景。但夏季的时候天气炎热，对于宠物而言背包过热。散热性较好的竹编此时能够发挥作用，它本身具有较强的透气性，且大别山竹编本身质地柔软且韧性极佳，非常适合用来作为猫背包的材料。</p><p>我们为它增添了许多亮点：\n</p><p>1.\t竹编制作而成的猫背包轻便舒适，携带便捷时尚。\n</p><p>2.\t竹编由于其良好的透气性能，不用像现在市场上的猫包一样专门开透气孔。竹编制作的猫包可以让猫咪在猫背包里的舒适度提升。且竹编柔软且具备弹性，保证了猫咪居住的舒适度。\n</p><p>3.\t视窗化设计，让主人随时能查看猫咪的情况，大小合适的视窗不仅不会让猫咪感受到外界的压迫感，而且满足了猫咪探索外界的好奇心。\n</p><p><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-3"
+        },
+        {
+          "_params": {
+            "showText": true,
+            "outside": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/0.129.jpeg",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "大别山竹编猫抓板设计",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-s"
+        },
+        {
+          "text": "<p>猫抓板是依据猫爱磨爪子的习性设计的。由于猫独特的猫爪结构，会习惯性的在地板、家具或者沙发磨爪子，猫抓板有效避免了家具破坏。大别山竹编猫抓板是竹编产品的又一创新。竹编由于孔隙大比较合适猫咪抓且由于竹编本身具有的韧性不容易被抓破，适合用来做猫抓板。\n</p><p>我们为它增加了一些亮点：</p><p>1.竹编底部由圆柱竹子形状底盘组成，稳定性较好。</p><p>2.清凉光滑，便于清理。</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-u"
+        },
+        {
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#000000"
+            },
+            ".mbr-header__subtext": {
+              "color": "#000000",
+              "font-size": "20px"
+            },
+            ".mbr-article": {
+              "color": "#000000"
+            },
+            ".mbr-article P": {
+              "font-size": "15px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "60",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "headerAlign": "left",
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/1.jpg",
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false,
+              "active": true
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "PRODUCTS | 产品展示",
+          "meta": "<span style=\"font-style: normal;\">系列二：竹编画纪念册设计</span>",
+          "text": "<p>利用传统竹编牢固耐用、竹编画轻薄美观的特点，我们设计了以传统竹编为外壳、以竹编画为内页的竹编画纪念册。\n</p><p>\n</p><p>考虑到竹编画制作的时间和人力成本较高，纪念册内页采取活页收集的形式，可以将内页做成明信片的形式单张进行售卖，避免以整个纪念册的形式进行售卖所带来价格过高的问题，同时也可以缓解竹编画因制作工期长带来的供不应求的情况。\n</p><p><br></p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-14"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "outside": false,
+            "bgColor": "#252525"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/0.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-18"
+        },
+        {
+          "_inherit": "slider",
+          "_afterNavbarItem": ".mbr-slider",
+          "_params": {
+            "autoplay": true,
+            "showBullets": true,
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/1.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "title": "Slide 1",
+                "contentAlign": "right",
+                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/2.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "title": "Slide 2",
+                "contentAlign": "left",
+                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlay": false,
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/3.jpg",
+                "active": true,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "title": "Slide 3",
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "alt": ""
+              }
+            ]
+          },
+          "articleLayout": true,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider2",
+          "_anchor": "slider2-12"
+        },
+        {
+          "_params": {
+            "showMeta": false
+          },
+          "title": "AIMS | 项目目的及意义",
+          "meta": "By John Smith posted July 30, 2015",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-b"
+        },
+        {
+          "text": "<p>立足于新县“红、绿、古”特色，在坚持传统工艺的基础上，我们希望能够推出具有区域特色、结合红色文化、符合时代审美潮流的新型竹编IP方案以及产品，给当地文化创意产业带来新鲜活力，给竹编等传统工艺增加新的产品形式可能性，为新县大别山区的旅游业增添经济效益，力求新县农特产的品牌内涵、视觉形象、市场认知度得到全面提升。</p><p>秉持大赛主题“创意，让乡村更美好！”，此项目寓意于文旅融合发展，发挥创新精神，运用新县IP和手工艺品，在品牌策划、视觉设计、宣传推广、市场营销上助力，让乡村建设越办越好。</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-m"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "outside": false,
+            "bgColor": "#252525"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/1.png",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-1a"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "outside": false,
+            "bgColor": "#252525"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/2.png",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-1b"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showName": true,
+            "showBio": true,
+            "count": "5",
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "header": "GROUP | 成员介绍",
+          "items": [
+            {
+              "authorName": "丁诗茗",
+              "authorBio": "学生",
+              "text": "中国美术学院\r<div>创新设计学院\r</div><div>工业设计专业\r</div><div>大二在读</div>"
+            },
+            {
+              "authorName": "雷梓莹",
+              "authorBio": "学生",
+              "text": "<p class=\"mbr-reviews__p\">中国美术学院 \n</p><p class=\"mbr-reviews__p\">\n</p><p class=\"mbr-reviews__p\">创新设计学院\n</p><p class=\"mbr-reviews__p\">\n</p><p class=\"mbr-reviews__p\">工业设计专业\n</p><p class=\"mbr-reviews__p\">\n</p><p class=\"mbr-reviews__p\">大二在读</p>"
+            },
+            {
+              "authorName": "徐邦苗",
+              "authorBio": "学生<br><div><br></div>",
+              "text": "中国美术学院\r<div>设计艺术学院\r</div><div>产品设计专业\r</div><div>大二在读\r</div>"
+            },
+            {
+              "authorName": "陈见沄",
+              "authorBio": "学生",
+              "text": "中国美术学院 \r<div>\r</div><div>创新设计学院\r</div><div>\r</div><div>工业设计专业\r</div><div>\r</div><div>大二在读</div>"
+            },
+            {
+              "authorName": "孙晨栋",
+              "authorBio": "学生",
+              "text": "中国美术学院 \n<div>\n</div><div>创新设计学院\n</div><div>\n</div><div>工业设计专业\n</div><div>\n</div><div>大二在读</div>"
+            }
+          ],
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "_anchor": "testimonials1-13",
+          "testimonial": [
+            {
+              "authorName": "丁诗茗",
+              "authorBio": "学生",
+              "text": "中国美术学院\r<div>创新设计学院\r</div><div>工业设计专业\r</div><div>大二在读</div>"
+            },
+            {
+              "authorName": "雷梓莹",
+              "authorBio": "学生",
+              "text": "<p class=\"mbr-reviews__p\">中国美术学院 \n</p><p class=\"mbr-reviews__p\">\n</p><p class=\"mbr-reviews__p\">创新设计学院\n</p><p class=\"mbr-reviews__p\">\n</p><p class=\"mbr-reviews__p\">工业设计专业\n</p><p class=\"mbr-reviews__p\">\n</p><p class=\"mbr-reviews__p\">大二在读</p>"
+            },
+            {
+              "authorName": "徐邦苗",
+              "authorBio": "学生<br><div><br></div>",
+              "text": "中国美术学院\r<div>设计艺术学院\r</div><div>产品设计专业\r</div><div>大二在读\r</div>"
+            },
+            {
+              "authorName": "陈见沄",
+              "authorBio": "学生",
+              "text": "中国美术学院 \r<div>\r</div><div>创新设计学院\r</div><div>\r</div><div>工业设计专业\r</div><div>\r</div><div>大二在读</div>"
+            },
+            {
+              "authorName": "孙晨栋",
+              "authorBio": "学生",
+              "text": "中国美术学院 \n<div>\n</div><div>创新设计学院\n</div><div>\n</div><div>工业设计专业\n</div><div>\n</div><div>大二在读</div>"
+            }
+          ],
+          "_styles": {
+            ".mbr-section__header": {
+              "text-align": "center"
+            },
+            ".mbr-reviews__text P": {
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showName": true,
+            "showBio": true,
+            "count": "2",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "header": "TEACHERS | 指导老师",
+          "items": [
+            {
+              "authorName": "曾翔立",
+              "authorBio": "老师",
+              "text": "毕业于中国美术学院和伦敦艺术大学\n<div>独立插画师/中国美术学院教师</div>"
+            },
+            {
+              "authorName": "满锦帆",
+              "authorBio": "老师",
+              "text": "毕业于浙江大学\n<div>中国美术学院教师</div>"
+            },
+            {
+              "authorName": "徐邦苗",
+              "authorBio": "中国美术学院\r<div>设计艺术学院\r</div><div>产品设计专业\r</div><div>大二在读\r</div><div><br></div>",
+              "text": "中国美术学院\r<div>设计艺术学院\r</div><div>产品设计专业\r</div><div>大二在读\r</div>"
+            },
+            {
+              "authorName": "陈见沄",
+              "authorBio": "中国美术学院\n<div>\n</div><div>创新设计学院\n</div><div>\n</div><div>工业设计专业\n</div><div>\n</div><div>大二在读</div>",
+              "text": "中国美术学院 \r<div>\r</div><div>创新设计学院\r</div><div>\r</div><div>工业设计专业\r</div><div>\r</div><div>大二在读</div>"
+            },
+            {
+              "authorName": "孙晨栋",
+              "authorBio": "中国美术学院\r<div>创新设计学院\r</div><div>工业设计专业\r</div><div>大二在读</div>",
+              "text": "中国美术学院 \r<div>\r</div><div>创新设计学院\r</div><div>\r</div><div>工业设计专业\r</div><div>\r</div><div>大二在读</div>"
+            }
+          ],
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "_styles": {
+            ".mbr-section__header": {
+              "text-align": "center"
+            },
+            ".mbr-reviews__text P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "testimonials1-16",
+          "testimonial": [
+            {
+              "authorName": "曾翔立",
+              "authorBio": "老师",
+              "text": "毕业于中国美术学院和伦敦艺术大学\n<div>独立插画师/中国美术学院教师</div>"
+            },
+            {
+              "authorName": "满锦帆",
+              "authorBio": "老师",
+              "text": "毕业于浙江大学\n<div>中国美术学院教师</div>"
+            }
+          ]
+        },
+        {
+          "_params": {
+            "showText": false,
+            "outside": false,
+            "bgColor": "#252525"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/0.3.jpeg",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-19"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#444444",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2021 竹如此类. Terms of Use  | <a class=\"mbr-footer__link text-gray text-primary\" href=\"index.html\">Privacy Policy</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-a"
+        }
+      ]
+    }
+  }
+}
